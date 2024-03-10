@@ -1,0 +1,33 @@
+[
+	{
+		"imgurl":"img/ico_but8.png",
+		"name":"学生成绩总表打印",
+		"desurl":"/about"
+	},
+	
+	{
+		"imgurl":"img/ico_but21.png",
+		"name":"学生评价",
+		"desurl":"/about1"
+	},
+	{
+		"imgurl":"img/ico_but55.png",
+		"name":"查询个人信息",
+		"desurl":"/about"
+	},
+	{
+		"imgurl":"img/ico_but71.png",
+		"name":"班级课表打印",
+		"desurl":"/about"
+	},
+	{
+		"imgurl":"img/ico_but73.png",
+		"name":"学生成绩查询",
+		"desurl":"/about"
+	},
+	{
+		"imgurl":"img/ico_but79.png",
+		"name":"学生课表查询",
+		"desurl":"/about"
+	}
+]
