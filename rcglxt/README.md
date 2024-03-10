@@ -1,4 +1,4 @@
-# training_program
+# Talent Management System
 
 ## Project setup
 ```
